@@ -1,4 +1,4 @@
-<h2 align="center">Hello There, This is <b>Md. Al Amin</b></h2>
+<h2 align="center">Hello There, This is <b><a href="https://www.linkedin.com/in/alamin-diu" target="_blank">Md Al Amin</a></b></h2>
 <p align="center">Full Stack Engineer | Java Specialist | Mentor</p>
 
 <div align="center">
