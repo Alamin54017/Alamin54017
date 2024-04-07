@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
 <hr/>
-<div>
+<div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alamin54017&theme=nightowl" alt="GitHub Streak" /></a>
    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Alamin54017&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Md Al Amin's Github Stats" />
 </div>
