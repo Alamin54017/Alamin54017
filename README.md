@@ -24,3 +24,19 @@
 ![Docker](https://img.shields.io/badge/Docker-092749?style=for-the-badge&labelColor=black&logo=docker&logoColor=06B6D4)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+
+<hr/>
+<div>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alamin54017&theme=nightowl" alt="GitHub Streak" /></a>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Alamin54017&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Md Al Amin's Github Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alamin54017&theme=radical" alt="Md Al Amin's GitHub Contribution" />
+</div>
+<hr/>
+<div align="center">
+
+![Md Al Amin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alamin54017&custom_title=Md%20Al%20Amin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</div>
